@@ -1,0 +1,18 @@
+{
+    "applicationName"      : "Ext MVC",
+    "applicationIconPaths" : ["HelloWorld.ico", "HelloWorld.icns"],
+    "versionString"        : "1.0",
+    "outputPath"           : "build/ExtMVC/package/",
+    "webAppPath"           : "build/ExtMVC/production/",
+    "settings": {
+        "remoteDebuggingPort": 9100,
+        "security": {
+            "allowCrossSite": true,
+            "allowFileSystemAccess": true,
+            "allowJavaScriptClipboardAccess": true
+        },
+        "mainWindow": {
+            "autoShow": true
+        }
+    }
+}

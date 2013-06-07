@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "ExtMVC",
+  "version": "1",
+  "minimum_chrome_version": "23",
+  "icons": {
+    "16": "icon_16.png",
+    "128": "icon_128.png"
+  },
+  "sandbox": {
+    "pages": [
+        "index.html"
+    ]
+  },
+  "app": {
+    "background": {
+      "scripts": ["main.js","all-classes.js"]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>Ext MVC</string>
+	<key>CFBundleDisplayName</key>
+	<string>Ext MVC</string>
+	<key>CFBundleIdentifier</key>
+	<string>Ext MVC.Ext MVC</string>
+	<key>CFBundleExecutable</key>
+	<string>Sencha Ion</string>
+	<key>CFBundleIconFile</key>
+	<string>app.icns</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.6.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+	<dict>
+		<key>CFBundleTypeName</key>
+		<string>All Files</string>
+		<key>CFBundleTypeRole</key>
+		<string>Editor</string>
+		<key>LSItemContentTypes</key>
+		<array>
+			<string>public.item</string>
+		</array>
+		<key>NSExportableTypes</key>
+		<array>
+			<string>public.item</string>
+		</array>
+	</dict>
+	</array>
+</dict>
+</plist>
